@@ -1,0 +1,13 @@
+=========================
+Sample Output
+=========================
+Clinic Code Mix: 65%
+Clinic Codes per Eval: 4.83
+Clinic Codes per Non-Eval: 3.88
+Clinic Re-eval per Eval: 17%
+
+PT Code Mix: 72%
+PT Codes per Eval: 4.93
+PT Codes per Non-Eval: 3.87
+PT Reval per Eval: 40%
+
